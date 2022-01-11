@@ -11,4 +11,4 @@ In the project directory, you can run:
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-/Users/davy.mac/Desktop/FORMULAIRES/Questionnaire/container/public/capture.png
+<img width="961" alt="Capture d’écran 2022-01-11 à 08 22 09" src="https://user-images.githubusercontent.com/79283100/148892173-ed229ae8-f6ad-4fbe-b879-39c0f9e1497d.png">
